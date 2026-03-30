@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeep6172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Sandeep6172/LeetCode/tree/master/0283-move-zeroes) |
+| [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeep6172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
+| [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 ## Greedy
 |  |
 | ------- |
