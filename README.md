@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sandeep6172/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeep6172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Sandeep6172/LeetCode/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeep6172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 ## Greedy
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sandeep6172/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
