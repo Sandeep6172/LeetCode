@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sandeep6172/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sandeep6172/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Sandeep6172/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sandeep6172/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0056-merge-intervals) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sandeep6172/LeetCode/tree/master/0048-rotate-image) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
 ## Breadth-First Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sandeep6172/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Sandeep6172/LeetCode/tree/master/0200-number-of-islands) |
 ## Design
 |  |
