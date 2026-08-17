@@ -14,23 +14,31 @@
  * }
  */
 class Solution {
-    public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> res=new ArrayList<>();
-        HashSet<Integer> Set=new HashSet<>();
-        if(root==null) return new ArrayList<>();
-        dfs(root,res,Set,0);
-        return res;
+      List<Integer> ans;
+    int globalLvl = 0;
 
 
-        
-    }
-    void dfs(TreeNode root, List<Integer> res, HashSet<Integer> Set, int h){
-        if(root==null) return;
-        if(!Set.contains(h)){
-            res.add(root.val);
+    public void rightView(TreeNode root, int currLvl,  List<Integer> ans) {
+
+        if(root == null) return ;
+
+        if(currLvl == globalLvl) {
+            ans.add(root.val);
+            globalLvl++;
         }
-        Set.add(h);
-        dfs(root.right,res,Set,h+1);
-        dfs(root.left,res,Set,h+1);
+
+        rightView(root.right, currLvl + 1, ans);
+        rightView(root.left, currLvl + 1, ans);
+
+
+    }
+    
+    public List<Integer> rightSideView(TreeNode root) {
+
+        ans = new ArrayList<Integer>();
+
+        rightView(root, 0, ans);
+
+        return ans;
     }
 }
