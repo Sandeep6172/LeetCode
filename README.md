@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sandeep6172/LeetCode/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/Sandeep6172/LeetCode/tree/master/1791-find-center-of-star-graph) |
 ## Matrix
 |  |
 | ------- |
