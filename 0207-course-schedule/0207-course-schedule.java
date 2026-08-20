@@ -1,6 +1,6 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-       List<List<Integer>> graph = new ArrayList<>();
+        List<List<Integer>> graph = new ArrayList<>();
 
         for (int i = 0; i < numCourses; i++) {
             graph.add(new ArrayList<>());
@@ -43,6 +43,5 @@ class Solution {
         }
 
         return count == numCourses;
-        
     }
 }
