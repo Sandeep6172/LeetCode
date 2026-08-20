@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1701-average-waiting-time](https://github.com/Sandeep6172/LeetCode/tree/master/1701-average-waiting-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Sandeep6172/LeetCode/tree/master/1603-design-parking-system) |
+| [1701-average-waiting-time](https://github.com/Sandeep6172/LeetCode/tree/master/1701-average-waiting-time) |
 ## Counting
 |  |
 | ------- |
