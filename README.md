@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sandeep6172/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeep6172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Sandeep6172/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sandeep6172/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sandeep6172/LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Sandeep6172/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Sandeep6172/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1768-merge-strings-alternately](https://github.com/Sandeep6172/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## DP on Trees
 |  |
