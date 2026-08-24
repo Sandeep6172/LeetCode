@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sandeep6172/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sandeep6172/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeep6172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sandeep6172/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sandeep6172/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sandeep6172/LeetCode/tree/master/0078-subsets) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sandeep6172/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Sandeep6172/LeetCode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Sandeep6172/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Sandeep6172/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Sandeep6172/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Sandeep6172/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sandeep6172/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sandeep6172/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
