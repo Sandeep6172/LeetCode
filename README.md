@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sandeep6172/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sandeep6172/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sandeep6172/LeetCode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sandeep6172/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
