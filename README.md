@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sandeep6172/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Sandeep6172/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sandeep6172/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sandeep6172/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sandeep6172/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Sandeep6172/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Sandeep6172/LeetCode/tree/master/0048-rotate-image) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sandeep6172/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sandeep6172/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Sandeep6172/LeetCode/tree/master/0012-integer-to-roman) |
 | [0131-palindrome-partitioning](https://github.com/Sandeep6172/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Sandeep6172/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Sandeep6172/LeetCode/tree/master/1768-merge-strings-alternately) |
