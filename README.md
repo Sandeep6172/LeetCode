@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Sandeep6172/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sandeep6172/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/Sandeep6172/LeetCode/tree/master/1701-average-waiting-time) |
 ## Two Pointers
 |  |
