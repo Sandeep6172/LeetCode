@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Sandeep6172/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0997-find-the-town-judge](https://github.com/Sandeep6172/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/Sandeep6172/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sandeep6172/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/Sandeep6172/LeetCode/tree/master/1701-average-waiting-time) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sandeep6172/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandeep6172/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0997-find-the-town-judge](https://github.com/Sandeep6172/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sandeep6172/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sandeep6172/LeetCode/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/Sandeep6172/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Sandeep6172/LeetCode/tree/master/1791-find-center-of-star-graph) |
 ## Matrix
 |  |
