@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Sandeep6172/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sandeep6172/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/Sandeep6172/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sandeep6172/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sandeep6172/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sandeep6172/LeetCode/tree/master/0344-reverse-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandeep6172/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Sandeep6172/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sandeep6172/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -74,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sandeep6172/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sandeep6172/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sandeep6172/LeetCode/tree/master/0134-gas-station) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0056-merge-intervals) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Sandeep6172/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sandeep6172/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Math
 |  |
 | ------- |
@@ -318,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sandeep6172/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
