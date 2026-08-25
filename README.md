@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Sandeep6172/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sandeep6172/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0986-interval-list-intersections](https://github.com/Sandeep6172/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/Sandeep6172/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/Sandeep6172/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sandeep6172/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sandeep6172/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Sandeep6172/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Sandeep6172/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sandeep6172/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Sandeep6172/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Sandeep6172/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
