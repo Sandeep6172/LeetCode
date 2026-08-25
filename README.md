@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sandeep6172/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sandeep6172/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sandeep6172/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sandeep6172/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Breadth-First Search
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sandeep6172/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sandeep6172/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Sandeep6172/LeetCode/tree/master/0165-compare-version-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sandeep6172/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Sandeep6172/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## DP on Trees
 |  |
@@ -284,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sandeep6172/LeetCode/tree/master/0022-generate-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sandeep6172/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sandeep6172/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
