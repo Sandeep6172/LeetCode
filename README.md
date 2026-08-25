@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sandeep6172/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sandeep6172/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/Sandeep6172/LeetCode/tree/master/1701-average-waiting-time) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Sandeep6172/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sandeep6172/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sandeep6172/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sandeep6172/LeetCode/tree/master/0200-number-of-islands) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Sandeep6172/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Design
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/Sandeep6172/LeetCode/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/Sandeep6172/LeetCode/tree/master/1701-average-waiting-time) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Sandeep6172/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
 | ------- |
