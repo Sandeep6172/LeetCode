@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Sandeep6172/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sandeep6172/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Sandeep6172/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/Sandeep6172/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/Sandeep6172/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0053-maximum-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0056-merge-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sandeep6172/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sandeep6172/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sandeep6172/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sandeep6172/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Breadth-First Search
@@ -361,4 +365,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sandeep6172/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
