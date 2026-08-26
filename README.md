@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sandeep6172/LeetCode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Sandeep6172/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sandeep6172/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Math
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sandeep6172/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1603-design-parking-system](https://github.com/Sandeep6172/LeetCode/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sandeep6172/LeetCode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sandeep6172/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
