@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sandeep6172/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sandeep6172/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sandeep6172/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sandeep6172/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sandeep6172/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sandeep6172/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Breadth-First Search
 |  |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sandeep6172/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
