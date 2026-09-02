@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sandeep6172/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sandeep6172/LeetCode/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/Sandeep6172/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep6172/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sandeep6172/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/Sandeep6172/LeetCode/tree/master/0279-perfect-squares) |
 | [0376-wiggle-subsequence](https://github.com/Sandeep6172/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sandeep6172/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep6172/LeetCode/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sandeep6172/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sandeep6172/LeetCode/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/Sandeep6172/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/Sandeep6172/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Sandeep6172/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sandeep6172/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Sandeep6172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
